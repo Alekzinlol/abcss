@@ -1,5 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
 
+textoalek { 
+text-align: justify;
+font-size: 15px; 
+padding: 5px;
+font-family: 'EB Garamond', serif;
+width: 500px;
+color: #E6E6FA;
+}
 fala { 
 text-align: justify; 
 font-size: 12px; 
