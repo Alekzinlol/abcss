@@ -55,9 +55,13 @@ width: 260px;
 color: #ED7248
 }
 sky {
- text-align: justify; 
+text-align: justify; 
 font-size: 12px; 
 font-family: segoe print;
 width: 260px;
 color: #87CEEB
+}
+classb { 
+font-weight: bold;
+color: #B37400
 }
