@@ -72,5 +72,5 @@ color: #87CEEB
   color: #EBE5F9;
 }
 .maintextoalek strong {
-  color: #8AC400;
+  color: #8AC400; !important
 }
