@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+
 fala { 
 text-align: justify; 
 font-size: 12px; 
@@ -61,7 +63,12 @@ font-family: segoe print;
 width: 260px;
 color: #87CEEB
 }
-classb { 
-font-weight: bold;
-color: #B37400
+.maintextoalek {
+  width: 500px;
+  padding: 20px;
+  font-family: 'EB Garamond', serif;
+  font-size: 15px;
+  text-align: justify;
+  color: #EBE5F9;
 }
+.maintextoalek b{#8AC400}
