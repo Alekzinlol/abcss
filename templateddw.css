@@ -69,7 +69,7 @@ color: #87CEEB
   font-family: 'EB Garamond', serif;
   font-size: 15px;
   text-align: justify;
-  color: #5E5A57;
+  color: #7e7975;
 }
 .postextoalek {
   width: 500px;
@@ -80,5 +80,5 @@ color: #87CEEB
   color: #7e7975;
 }
 .postextoalek strong {
-  color: #441414; !important
+  color: #dedad5; !important
 }
