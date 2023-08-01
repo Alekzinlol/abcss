@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+
+fala { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #dedad5
+}
+roxo { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #754077
+}
+royalblue { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #4169E1
+}
+blueviolet { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #8A2BE2
+}
+hotpink { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #FF69B4
+}
+laranja { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #ff704d
+}
+fala2 { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #6B3638
+}
+laranja2 { 
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #ED7248
+}
+sky {
+text-align: justify; 
+font-size: 12px; 
+font-family: segoe print;
+width: 260px;
+color: #87CEEB
+}
+.maintextoalek {
+  width: 500px;
+  padding: 20px;
+  font-family: 'EB Garamond', serif;
+  font-size: 15px;
+  text-align: justify;
+  color: #7e7975;
+}
+.postextoalek {
+  width: 500px;
+  padding: 20px;
+  font-family: 'EB Garamond', serif;
+  font-size: 15px;
+  text-align: justify;
+  color: #7e7975;
+}
+.postextoalek strong {
+  color: #441414; !important
+}
