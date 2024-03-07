@@ -42,7 +42,7 @@ font-family: segoe print;
 width: 260px;
 color: #ff704d
 }
-fala2 { 
+vermelho { 
 text-align: justify; 
 font-size: 12px; 
 font-family: segoe print;
